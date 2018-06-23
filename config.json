@@ -1,0 +1,8 @@
+{
+    "miners": [
+        "m01",
+        "m02"
+    ],
+    "force_restart": false,
+    "string": "WatchDog 23.06.2018 v0.1"
+}
