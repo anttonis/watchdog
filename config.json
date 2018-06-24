@@ -1,9 +1,10 @@
 {
-    "miners": [
-        "m01",
-        "m02"
-    ],
-    "trackminer": "m02",
-    "force_restart": false,
-    "string": "WatchDog 23.06.2018 v0.1"
-}
+   "trackminer": "m10",
+   "wallet": "t1YkpnfwNGjR9K9vPU77kaFyfVfkasdqXok",
+   "force_restart": false,
+   "watchdog_working": true,
+   "usb_dev": {
+     "time_on": 5
+   },
+   "string": "WatchDog 23.06.2018 v0.1"
+ }
