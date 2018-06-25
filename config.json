@@ -3,6 +3,8 @@
    "wallet": "t1YkpnfwNGjR9K9vPU77kaFyfVfkasdqXok",
    "force_restart": false,
    "watchdog_working": true,
+   "wait_after_restart": 600,
+   "miner_timeout": 2400,
    "usb_dev": {
      "time_on": 5
    },
