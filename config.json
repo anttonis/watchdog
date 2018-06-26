@@ -7,7 +7,9 @@
    "miner_timeout": 2400,
    "watchdog_loop": 130,
    "usb_dev": {
-     "time_on": 5
+     "shutdown": 10,
+     "wait_between": 5,
+     "power_on" : 1       
    },
    "string": "WatchDog 23.06.2018 v0.1"
  }
