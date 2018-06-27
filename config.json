@@ -1,3 +1,4 @@
+   
 {
    "trackminer": "m10",
    "wallet": "t1YkpnfwNGjR9K9vPU77kaFyfVfkasdqXok",
@@ -7,9 +8,12 @@
    "miner_timeout": 2400,
    "watchdog_loop": 130,
    "usb_dev": {
+     "jumper": ["restart", "power"],
+     "mode": "power",
      "shutdown": 10,
      "wait_between": 5,
-     "power_on" : 1       
+     "power_on" : 1,
+     "restart_time": 1       
    },
    "string": "WatchDog 23.06.2018 v0.1"
- }
+}
