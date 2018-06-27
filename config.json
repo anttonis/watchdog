@@ -1,19 +1,19 @@
    
 {
-   "trackminer": "m02",
-   "wallet": "t1YkpnfwNGjR9K9vPU77kaFyfVfkasdqXok",
-   "force_restart": false,
-   "watchdog_working": true,
-   "wait_after_restart": 1,
-   "miner_timeout": 2400,
-   "watchdog_loop": 130,
-   "usb_dev": {
-     "jumper": ["restart", "power", "force_restart"],
-     "mode": "restart",
-     "shutdown": 10,
-     "wait_between": 5,
-     "power_on" : 1,
-     "restart_time": 1       
+   "trackminer":"m02",
+   "wallet":"t1YkpnfwNGjR9K9vPU77kaFyfVfkasdqXok",
+   "force_restart":false,
+   "watchdog_working":true,
+   "wait_after_restart":1,
+   "miner_timeout":2400,
+   "watchdog_loop":130,
+   "usb_dev":{
+     "jumper":["restart","power","force_restart"],
+     "mode":"restart",
+     "shutdown":10,
+     "wait_between":5,
+     "power_on":1,
+     "restart_time":1       
    },
-   "string": "WatchDog 27.06.2018 v1.0"
+   "string":"WatchDog 27.06.2018 v1.0"
 }
