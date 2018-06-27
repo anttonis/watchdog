@@ -4,7 +4,7 @@
    "wallet": "t1YkpnfwNGjR9K9vPU77kaFyfVfkasdqXok",
    "force_restart": false,
    "watchdog_working": true,
-   "wait_after_restart": 6,
+   "wait_after_restart": 1,
    "miner_timeout": 2400,
    "watchdog_loop": 130,
    "usb_dev": {
