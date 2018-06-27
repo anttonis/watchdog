@@ -1,6 +1,6 @@
    
 {
-   "trackminer": "m10",
+   "trackminer": "m02",
    "wallet": "t1YkpnfwNGjR9K9vPU77kaFyfVfkasdqXok",
    "force_restart": false,
    "watchdog_working": true,
@@ -9,7 +9,7 @@
    "watchdog_loop": 130,
    "usb_dev": {
      "jumper": ["restart", "power"],
-     "mode": "power",
+     "mode": "restart",
      "shutdown": 10,
      "wait_between": 5,
      "power_on" : 1,
