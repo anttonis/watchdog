@@ -6,7 +6,7 @@
    "watchdog_working":true,
    "wait_after_restart":600,
    "miner_timeout":2400,
-   "watchdog_loop":130,
+   "watchdog_loop":140,
    "usb_dev":{
      "jumper":["restart","power","force_restart"],
      "mode":"restart",
